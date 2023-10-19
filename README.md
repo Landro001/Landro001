@@ -23,6 +23,7 @@ Sou estudante de engenharia de software de 18 anos, acredito que a tecnologia é
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Gerais
 ![Git](https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=white)
