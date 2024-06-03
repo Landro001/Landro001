@@ -1,5 +1,5 @@
 ## Olá, eu sou o Leandro 👋
-Sou estudante de engenharia de software de 18 anos, acredito que a tecnologia é uma das grandes paixões da minha vida. Desde a infância, tive muita curiosidade e interesse por todo aparelho tecnológico, especialmente pelos video games, que desempenham um papel importante em minha vida até hoje. Por meio dessa paixão, decidi seguir uma carreira em engenharia de software e estou ansioso para aprender mais sobre o campo e suas possibilidades.
+Sou estudante de engenharia de software de 19 anos, acredito que a tecnologia é uma das grandes paixões da minha vida. Desde a infância, tive muita curiosidade e interesse por todo aparelho tecnológico, especialmente pelos video games, que desempenham um papel importante em minha vida até hoje. Por meio dessa paixão, decidi seguir uma carreira em engenharia de software e estou ansioso para aprender mais sobre o campo e suas possibilidades.
 #
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Landro001&show_icons=true&theme=synthwave)
 
