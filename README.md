@@ -17,10 +17,10 @@ Sou estudante de engenharia de software de 19 anos, acredito que a tecnologia é
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323350?style=for-the-badge&logo=typescript)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
 ![React](https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Angular](https://img.shields.io/badge/Angular-darkred?style=for-the-badge&logo=angular&logoColor=EA907D)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
 
 
 ### Back-End
