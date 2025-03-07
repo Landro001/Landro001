@@ -1,4 +1,9 @@
-## ❤ Olá, seja bem-vindo! Fico feliz em te receber
+
+  
+
+
+## ❤ Olá, seja bem-vindo! Fico feliz em te receber <img align="right" src="https://i.gifer.com/7IjS.gif" width="200">
+
 Sou Engenheiro de Software, sou fascinado por programação e jogos.
 
 - 🔭 Atualmente estou trabalhando em um aplicativo android para organização de jogos
