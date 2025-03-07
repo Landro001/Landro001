@@ -24,8 +24,6 @@ Sou Engenheiro de Software, sou fascinado por programação e jogos.
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Landro001&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
 </div>
 
-![Snake animation](https://github.com/Landro001/Landro001/blob/output/github-contribution-grid-snake.svg)
-
 ## Tecnologias
 
 ### Front-End
