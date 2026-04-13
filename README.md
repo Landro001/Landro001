@@ -17,13 +17,6 @@ Sou Engenheiro de Software, sou fascinado por programação e jogos.
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Landro001)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/334055/leandro-jos%c3%a9-borges)
 
-
-#
-<div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landro001&layout=compact&show_icons=true&theme=synthwave&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Landro001&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
-</div>
-
 ## Tecnologias
 
 ### Front-End
